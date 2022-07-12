@@ -1,4 +1,4 @@
-# Grocery Buddy
+# Meme Generator
 
 As a meme connoisseur, I knew I wanted to build a pet project that combines two of my favorite things: Memes and React!
 
